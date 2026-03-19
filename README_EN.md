@@ -12,21 +12,25 @@
   </picture>
 </div>
 
-# <nome-do-repositório>
+# <Pituguês Challenges>
 
 [Versão em Português](/README.md)
 
 ## 💬 New Features and Reporting Bugs
 
-If you would like to suggest new features or report bugs, just create a new [issue][github-issues] and we will respond there!
+This repository is intended to host programming challenges in the Pituguês language, encouraging the learning of algorithms and providing an open space for exchanges and discussions.
 
-(To learn more about GitHub issues, check out the [official GitHub documentation][github-issues-doc]).
+You can find the challenges and their respective descriptions in the [issues][github-issues] tab!
+
+Feel free to contribute to the project by creating new challenge issues as well.
+
+(To learn more about GitHub issues, check the [official GitHub documentation][github-issues-doc].)
 
 ## 💡 Questions? Ideas?
 
-Do you have questions about how to use the library? New ideas for the project? Want to share something with us? Feel free to create a topic in our [Discussions][github-discussions], and we’ll interact with you there!
+Questions? New ideas for the project? Want to share something with us? Feel free to create a topic in our [Discussions][github-discussions], and we’ll interact with you there!
 
-(To learn more about GitHub discussions, check out the [official GitHub documentation][github-discussions-doc]).
+(To learn more about GitHub Discussions, check the [official GitHub documentation][github-discussions-doc].)
 
 ## 💻 Contributing to the Project's Code
 
@@ -44,11 +48,11 @@ Make sure to read these files carefully before contributing. If you have any dif
 
 ## ❤️ Contributors
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=cumbucadev/desafios-pitugues)](https://github.com/cumbucadev/generic-template/graphs/contributors)
 
 _Made with [contrib.rocks](https://contrib.rocks)._
 
 [github-discussions-doc]: https://docs.github.com/discussions
-[github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
+[github-discussions]: https://github.com/cumbucadev/desafios-pitugues/discussions
 [github-issues-doc]: https://docs.github.com/issues/tracking-your-work-with-issues/creating-an-issue
-[github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+[github-issues]: https://github.com/cumbucadev/desafios-pitugues/issues
